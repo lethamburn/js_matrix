@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+
+body {
+  font-family: "Roboto Mono", monospace;
+  padding: 90px;
+  background-color: #121212;
+  color: #83b695;
+  font-weight: normal;
+  font-size: 24px;
+  text-shadow: 0 0 2px #2c5e3c;
+  -moz-text-shadow: 0 0 2px #2c5e3c;
+  -webkit-text-shadow: 0 0 2px #2c5e3c;
+}
+.display {
+  display: inline-block;
+}
+
+.display__element {
+  display: inline-block;
+}
+
+#blink {
+  margin: 0px;
+}
